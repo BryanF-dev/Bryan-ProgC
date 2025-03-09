@@ -16,6 +16,6 @@ resultado =10;
 
 printf("Resultado: %d \n" ,resultado);
 
-
+resultado += 20;
 
 }
